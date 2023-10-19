@@ -3,14 +3,20 @@
 <b>Parsa Hesam's Project Portfolio</b>
 <br>
 
-Web Development Projects:
+<b>Web Development Projects:</b>
 <br>
-[About Us and Waitlist Website](https://youtu.be/TrFoV0RLL_4?si=cAgxLg3YFYH_uEzC)
+<br>
+About Us/ Waitlist Page
+<br>
+[![Video Title](https://img.youtube.com/vi/TrFoV0RLL_4/0.jpg)](https://www.youtube.com/watch?v=TrFoV0RLL_4) 
+<br>
+https://www.youtube.com/watch?v=TrFoV0RLL_4
+
 <br>
 
-Game Development Projects:
+<b>Game Development Projects:</b>
 <br>
 
 
-Other Projects:
+<b>Other Projects:</b>
 <br>
